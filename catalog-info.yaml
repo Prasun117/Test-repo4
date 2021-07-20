@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: catalog-delete-primary-branch
+  name: catalog-delete-secondary-branch
   description: github branch.
   # Example for optional annotations
   # annotations:
